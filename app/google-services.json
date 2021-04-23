@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610911052799",
+    "project_id": "business-feed-cc3b1",
+    "storage_bucket": "business-feed-cc3b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610911052799:android:4c4ad9d4eab5ae4bb0bdca",
+        "android_client_info": {
+          "package_name": "com.dmaker.businessfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610911052799-r3h7bd3vt3uv0urnu2nqjkcm5o9u1ata.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmT-82-puHNiDVMxEtyFvr7PsTFVJxHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610911052799-r3h7bd3vt3uv0urnu2nqjkcm5o9u1ata.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
